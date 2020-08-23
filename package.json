@@ -1,0 +1,22 @@
+{
+  "name": "electron-keylogger",
+  "version": "1.0.0",
+  "description": "Keylogger using electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisangellopez9731/electron-keylogger.git"
+  },
+  "author": "Luis Angel Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisangellopez9731/electron-keylogger/issues"
+  },
+  "homepage": "https://github.com/luisangellopez9731/electron-keylogger#readme",
+  "dependencies": {
+    "electron": "^9.2.1"
+  }
+}
